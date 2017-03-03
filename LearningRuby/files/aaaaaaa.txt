@@ -1,0 +1,10 @@
+1: C:/rubyWorkspace/LearningRuby/files/aaaaaaa.txt[1] Hello
+2: C:/rubyWorkspace/LearningRuby/files/aaaaaaa.txt[2] 1 + 2 = 3
+3: C:/rubyWorkspace/LearningRuby/files/aaaaaaa.txt[3] fee
+4: C:/rubyWorkspace/LearningRuby/files/aaaaaaa.txt[4] 
+5: C:/rubyWorkspace/LearningRuby/files/aaaaaaa.txt[5] fi
+6: C:/rubyWorkspace/LearningRuby/files/aaaaaaa.txt[6] 
+7: C:/rubyWorkspace/LearningRuby/files/aaaaaaa.txt[7] fo
+8: C:/rubyWorkspace/LearningRuby/files/aaaaaaa.txt[8] 
+9: C:/rubyWorkspace/LearningRuby/files/aaaaaaa.txt[9] fum
+10: C:/rubyWorkspace/LearningRuby/files/aaaaaaa.txt[10] 

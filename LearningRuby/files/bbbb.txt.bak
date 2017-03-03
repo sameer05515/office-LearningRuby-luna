@@ -1,0 +1,9 @@
+Ruby gives you two basic ways to organize your program 
+so that you can run different parts of it apparently 
+"at the same time." Fibers let you suspend execution of 
+one part of your program and run some other part. 
+For more decoupled execution,
+ you can split up cooperating tasks within the program, 
+ using multiple threads, 
+ or you can split up tasks between different programs, 
+ using multiple processes. Let's look at each in turn.

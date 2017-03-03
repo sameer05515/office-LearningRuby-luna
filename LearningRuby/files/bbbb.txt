@@ -1,0 +1,9 @@
+11: C:/rubyWorkspace/LearningRuby/files/bbbb.txt[1] Ruby gives you two basic ways to organize your program 
+12: C:/rubyWorkspace/LearningRuby/files/bbbb.txt[2] so that you can run different parts of it apparently 
+13: C:/rubyWorkspace/LearningRuby/files/bbbb.txt[3] "at the same time." Fibers let you suspend execution of 
+14: C:/rubyWorkspace/LearningRuby/files/bbbb.txt[4] one part of your program and run some other part. 
+15: C:/rubyWorkspace/LearningRuby/files/bbbb.txt[5] For more decoupled execution,
+16: C:/rubyWorkspace/LearningRuby/files/bbbb.txt[6]  you can split up cooperating tasks within the program, 
+17: C:/rubyWorkspace/LearningRuby/files/bbbb.txt[7]  using multiple threads, 
+18: C:/rubyWorkspace/LearningRuby/files/bbbb.txt[8]  or you can split up tasks between different programs, 
+19: C:/rubyWorkspace/LearningRuby/files/bbbb.txt[9]  using multiple processes. Let's look at each in turn.
